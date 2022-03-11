@@ -26,6 +26,6 @@
 -------------------------------------------------------------
 
 # Function descriptions
-- Download the package to see more details
+- Download the r package under "master" branch
 -------------------------------------------------------------
 
