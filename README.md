@@ -11,7 +11,7 @@
 - ![f](https://latex.codecogs.com/gif.latex?f_0%3A%20%5Cmathbb%7BR%7D%5Ed%20%5Crightarrow%20%5Cmathbb%7BR%7D): true function to estimate
 
 # Deep Neural Network Model input and output
-- Input: ![X](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BX%7D_%7Bj%7D) (uniform among all i for the same j)
+- Input: ![X](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BX%7D_%7Bj%7D)
 - Output: ![Y](https://latex.codecogs.com/gif.latex?%5Coverline%7BY%7D_%7B%5Ccdot%20j%7D)
 -------------------------------------------------------------
 
