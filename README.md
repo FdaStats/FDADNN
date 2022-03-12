@@ -12,7 +12,7 @@
 
 # Deep Neural Network Model input and output
 - Input: ![X](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BX%7D_%7Bj%7D) (uniform among all i for the same j)
-- Output: ![Y](https://latex.codecogs.com/gif.latex?Y_%7Bij%7D)
+- Output: ![Y](https://latex.codecogs.com/gif.latex?%5Coverline%7BY%7D_%7B%5Ccdot%20j%7D)
 -------------------------------------------------------------
 
 # Deep Neural Network Hyperparameters and Structures
