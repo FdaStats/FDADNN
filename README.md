@@ -28,7 +28,7 @@
 
 # Function descriptions
 - Main function is in "FDADNN.R".
-- Examples are in "example.R"
+- 2D and 3D examples are in "example.R"
 - The package is under "master" branch. Download and install the r package. Use "help" for more function details and examples.
 -------------------------------------------------------------
 
