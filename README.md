@@ -6,15 +6,15 @@
 # $Y_{ij} = f_{0} \ (\mathrm{X}_{j}) + \epsilon_{i} \ (\mathrm{X}_{j}) \ , \ \ \ i = 1, 2,..., n \ , \ j = 1, 2, ..., N$
 
 
--  $X_{j} \in \mathbb{R} ^ {d}$: fixed vector of length d for the j-th observational point
+-  $\mathrm{X}_{j} \in \mathbb{R} ^ {d}$: fixed vector of length d for the j-th observational point
 - $Y_{ij}$: scalar random variable for the i-th subject and j-th observational point
-- $\epsilon_{i} (X_{j})$: error random process with measurement error for the i-th subject and j-th observational point
+- $\epsilon_{i} \ (\mathrm{X}_{j})$: error random process with measurement error for the i-th subject and j-th observational point
 - $n$: sample size
 - $N$: number of observational points
 - $f_{0}: \mathbb{R} ^ {d} \to \mathbb{R}$: true function to estimate
 
 # Deep Neural Network Model input and output
-- Input: $X_{j}$
+- Input: $\mathrm{X}_{j}$
 - Output: $Y_{j}$
 -------------------------------------------------------------
 
