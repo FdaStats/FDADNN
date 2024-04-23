@@ -3,7 +3,7 @@
 
 # Functional Data Regression Model
 
-# $Y_{ij} = f_{0} (X_{j}) + \epsilon_{i} (X_{j}), i = 1, 2,..., n, j = 1, 2, ..., N$
+# $Y_{ij} = f_{0} \ (\mathrm{X}_{j}) + \epsilon_{i} \ (\mathrm{X}_{j}) \ , \ \ \ i = 1, 2,..., n \ , \ j = 1, 2, ..., N$
 
 
 -  $X_{j} \in \mathbb{R} ^ {d}$: fixed vector of length d for the j-th observational point
